@@ -1,0 +1,20 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    background-color: aqua;
+    text-align: center;
+    font-size: 60px;
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+a {
+    background-color: cyan;
+    cursor: pointer;
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}

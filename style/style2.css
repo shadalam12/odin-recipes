@@ -1,0 +1,55 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    text-align: center;
+    color : yellowgreen;
+    font-size: 50 px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+img {
+    width: 50%;
+    size: 500x;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#d {
+    text-align: center;
+    color: violet;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#i {
+    text-align: left;
+    color: tomato;
+    font-size: 30px;
+}
+
+ul {
+    list-style: disc;
+    list-style-position: initial;
+    font-style: italic;
+}
+
+#s {
+    text-align: left;
+    color: lawngreen;
+    font-size: 30px;
+}
+
+ol {
+    list-style-type: disc;
+    list-style-position: initial;
+    font-style: italic;
+}
